@@ -18,122 +18,82 @@ I am a <img alt="Developer 4 Life" src="https://img.shields.io/badge/Developer_4
 <h2 align="center"><p> 📫 <img alt="ReachMe @ hirandas@protonmail.com" src="https://img.shields.io/badge/ReachMe@-hirandas@protonmail.com-purple"></p></h2>
 <h2>My Tech Stack</h2>
 <details open>
-  <summary><h5>Language Stack</h5></summary>
+  <summary><h5>Front End</h5></summary>
   <p align="left">
-  <a href="https://github.com/hirandas2610/">
-    <img alt="JavaScript - HTML - CSS - Python - Bash - Rust" src="https://skillicons.dev/icons?i=js,html,css,py,bash,rust" title="JavaScript - HTML - CSS - Python - Bash - Rust"/>
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" title="JSON"/>
-  </a>
+    <img alt="HTML5" src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+    <img alt="CSS3" src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+    <img alt="Javascript" src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+    <img alt="React" src="https://skillicons.dev/icons?i=react" title="React"/>
+    <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+    <img alt="NextJS" src="https://skillicons.dev/icons?i=nextjs" title="NextJS"/>
   </p>
 </details>
 <details open>
-  <summary><h5>Frameworks Stack</h5></summary>
+  <summary><h5>Back End</h5></summary>
   <p align="left">
-  <a href="https://github.com/hirandas2610/">
-    <img alt="FLASK - django - NodeJS - Selenium" src="https://skillicons.dev/icons?i=flask,django,nodejs,selenium" title="FLASK - django - NodeJS - Selenium"/>
-  </a>
-  <p>
-    <a href="https://github.com/hirandas2610/">
+    <img alt="Python" src="https://skillicons.dev/icons?i=python" title="Python"/>
+    <img alt="Rust" src="https://skillicons.dev/icons?i=rust" title="Rust"/>
+    <img alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
+  </p>
+</details>
+<details open>
+  <summary><h5>Databases</h5></summary>
+  <p align="left">
+    <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+    <img alt="Postgres" src="https://skillicons.dev/icons?i=postgres" title="Postgres"/>
+    <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+    <img alt="Redis" src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+  </p>
+</details>
+<details open>
+  <summary><h5>Cloud & Microservices</h5></summary>
+  <p align="left">
+    <img alt="AWS" src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+    <img alt="GCP" src="https://skillicons.dev/icons?i=gcp" title="GCP"/>
+    <img alt="Azure" src="https://skillicons.dev/icons?i=azure" title="Azure"/>
+    <img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
+    <img alt="Docker" src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  </p>
+</details>
+<details open>
+  <summary><h5>Python Frameworks</h5></summary>
+  <p align="left">
     <img alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" title="Robot Framework">
-  </a>
+    <img alt="Selenium" src="https://skillicons.dev/icons?i=selenium" title="Selenium"/>
+    <img alt="Flask" src="https://skillicons.dev/icons?i=flask" title="Flask"/>
+    <img alt="Django" src="https://skillicons.dev/icons?i=django" title="Django"/>
   </p>
-</p>
 </details>
 <details open>
-  <summary><h5>Database Stack</h5></summary>
+  <summary><h5>Productivity Tools</h5></summary>
   <p align="left">
-  <a href="https://github.com/hirandas2610/">
-    <img alt="SQLite - MySQL - MongoDB" src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" title="SQLite - MySQL - MongoDB"/>
-  </a>
-</p>
-</details>
-<details open>
-  <summary><h5>Cloud</h5></summary>
-  <p align="left">
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Azure - AWS" src="https://skillicons.dev/icons?i=azure,aws" title="Azure - AWS"/>
-  </a>
-</p>
-</details>
-<details open>
-  <summary><h5>Productivity Tool Stack</h5></summary>
-  <p align="left">
-  <a href="https://github.com/hirandas2610/">
-    <img alt="VIM" src="https://skillicons.dev/icons?i=vim" title="VIM"/>
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Pycharm"/>
-  </a>
-  <a href="https://github.com/hirandas2610/">
+    <img alt="GitLab" src="https://skillicons.dev/icons?i=gitlab" title="GitLab"/>
     <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" title="Jira">
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode"/>
-  </a>
+    <img alt="GitHub" src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+    <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" title="VSCode"/>
+    <img alt="PyCharm" src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
+    <img alt="VIM" src="https://skillicons.dev/icons?i=vim" title="VIM"/>
+    <img alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
   </p>
 </details>
 <details open>
-  <summary><h5>Git Platforms</h5></summary>
+  <summary><h5>Operating Systems</h5></summary>
   <p align="left">
-  <a href="https://github.com/hirandas2610/">
-    <img alt="GitHub - GitLab" src="https://skillicons.dev/icons?i=github,gitlab" title="GitHub - GitLab"/>
-  </a>
-</p>
-</details>
-<details open>
-  <summary><h5>OS Stack</h5></summary>
-  <p align="left">
-  <a href="https://github.com/hirandas2610/">
-    <img alt="RedHat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" title="RedHat"/>
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu"/>
-  </a>
-   <a href="https://github.com/hirandas2610/">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows"/>
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" title="Debian"/>
-  </a>
-  <a href="https://github.com/hirandas2610/">
+    <img alt="Redhat" src="https://skillicons.dev/icons?i=redhat" title="Redhat"/>
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" title="Fedora"/>
-  </a> 
-</p>
+    <img alt="Debian" src="https://skillicons.dev/icons?i=debian" title="Debian"/>
+    <img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
+    <img alt="Windows" src="https://skillicons.dev/icons?i=windows" title="Windows"/>
+  </p>
 </details>
 <details open>
   <summary><h5>Other Tools</h5></summary>
   <p align="left">
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" title="Apache">
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" title="Terraform">
-  </a>
-  <a href="https://github.com/hirandas2610/">
+    <img alt="Terraform" src="https://skillicons.dev/icons?i=terraform" title="Terraform"/>
+    <img alt="WebPack" src="https://skillicons.dev/icons?i=webpack" title="WebPack"/>
+    <img alt="Prometheus" src="https://skillicons.dev/icons?i=prometheus" title="Prometheus"/>
+    <img alt="Grafana" src="https://skillicons.dev/icons?i=grafana" title="Grafana"/>
     <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" title="Splunk">
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="GitLab CI" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" title="GitLab CI">
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" title="GitHub Actions">
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" title="Docker">
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" title="Grafana">
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes">
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" title="Prometheus">
-  </a>
-  <a href="https://github.com/hirandas2610/">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman">
-  </a>
-</p>
+    <img alt="Graphql" src="https://skillicons.dev/icons?i=graphql" title="Graphql"/>
+  </p>
 </details>
