@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, Folks I'am Hiran Das<p><a href="https://github.com/hirandas2610/"><img alt="aka Da₿₿ler" src="https://img.shields.io/badge/aka-Da₿₿ler-orange" width="150px" align="center"></a><br><a href="https://x.com/hirandas2610">
-<img src="https://img.shields.io/twitter/follow/hirandas2610"></a><a href="https://github.com/hirandas2610/"><img alt="Profile Visits Count" src="https://komarev.com/ghpvc/?username=hirandas2610&label=Profile+Visits&color=green"></a></p></h2>
+<img src="https://img.shields.io/twitter/follow/hirandas2610"></a>  <a href="https://github.com/hirandas2610/"><img alt="Profile Visits Count" src="https://komarev.com/ghpvc/?username=hirandas2610&label=Profile+Visits&color=green"></a></p></h2>
 
 <h2 align="center">
 I am a <img alt="Developer 4 Life" src="https://img.shields.io/badge/Developer_4_Life-litegreen" width="150px"> and also ...
