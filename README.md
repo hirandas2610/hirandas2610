@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning RUST as it is the new kid on the block and also piping into different frameworks as well as Infra tools.
 - 💞️ I’m looking to collaborate on any opensource project that looks interesting to me
   
-<h2 align="center"><p> 📫 <img alt="ReachMe @ hirandas2610@proton.me" src="https://img.shields.io/badge/ReachMe@-hirandas2610@proton.me-purple"></p></h2>
+<h2 align="center"><p> 📫 <img alt="ReachMe @ hirandas@protonmail.com" src="https://img.shields.io/badge/ReachMe@-hirandas@protonmail.com-purple"></p></h2>
 <h2>My Tech Stack</h2>
 <details open>
   <summary><h5>Language Stack</h5></summary>
