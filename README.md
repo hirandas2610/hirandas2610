@@ -50,6 +50,14 @@ I am a <img alt="Developer 4 Life" src="https://img.shields.io/badge/Developer_4
 </p>
 </details>
 <details open>
+  <summary><h5>Cloud</h5></summary>
+  <p align="left">
+  <a href="https://github.com/hirandas2610/">
+    <img alt="Azure - AWS" src="https://skillicons.dev/icons?i=azure,aws" title="Azure - AWS"/>
+  </a>
+</p>
+</details>
+<details open>
   <summary><h5>Productivity Tool Stack</h5></summary>
   <p align="left">
   <a href="https://github.com/hirandas2610/">
