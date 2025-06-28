@@ -6,7 +6,7 @@ I am a <img alt="Developer 4 Life" src="https://img.shields.io/badge/Developer_4
 <p></p><p><img alt="Engineer - Software/Automation" src="https://img.shields.io/badge/Engineer-Software%2FAutomation-darkred">
 <img alt="Domain - Telecom/Networking/PE" src="https://img.shields.io/badge/Domain-Telecom%2FNetworking%2FPE-teal">
 <img alt="Tech Enthusiast" src="https://img.shields.io/badge/Tech_Enthusiast-orange">
-<img alt="Cypto/Web3 Nerd" src="https://img.shields.io/badge/Cypto%2FWeb3 Nerd-purple">
+<img alt="Crypto/Web3 Nerd" src="https://img.shields.io/badge/Crypto%2FWeb3 Nerd-purple">
 <img alt="OpenSourceSoftware Advocate" src="https://img.shields.io/badge/OpenSourceSoftware_Advocate-yellow">
 </p>
 </h2>
