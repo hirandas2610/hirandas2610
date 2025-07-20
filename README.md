@@ -66,11 +66,10 @@ Agentic AI👾, Web3🌐, Crypto ₿, Stock Market📈 and transitioning to an A
 ---
 
 ## 🔧 Currently Working on a Special Project
-<p align="left">
-  <a href="https://strictbytes.hashnode.dev/welcome-to-strictbytes-a-developers-hub-for-the-ai-age" target="_blank"><img src="strictbytes_logo_01.png" width="200" height="200" alt="Strictbytes logo" /></a><b>it's loading⏳ ....</b>
+<p align="center">
+  <a href="https://strictbytes.hashnode.dev/welcome-to-strictbytes-a-developers-hub-for-the-ai-age" target="_blank"><img src="strictbytes_logo_02.jpg" width='85%' height='85%' alt="Strictbytes logo" /></a><br>
 </p>
-
-  
+<h3 align="center">it's loading⏳ ....</h3>
 
 ---
 
