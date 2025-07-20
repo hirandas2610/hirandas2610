@@ -5,21 +5,11 @@
 </p>
 
 <div align="center">
-  <a href="https://strictbytes.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Strictbytes-2962ff?style=flat&logo=hashnode&logoColor=white" alt="StrictBytes Blog" />
-  </a>
-  <a href="https://x.com/hirandas2610" target="_blank">
-    <img src="https://img.shields.io/badge/X-@hirandas2610-000000?style=flat&logo=twitter&logoColor=white" alt="X/Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/hirandas2610" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-hirandas2610-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/hirandas2610">
-    <img src="https://img.shields.io/badge/Email-hirandas@protonmail.com-red?style=flat&logo=gmail&logoColor=white" alt="mailto:hirandas@protonmail.com" />
-  </a>
-  <a href="https://github.com/hirandas2610">
-    <img src="https://komarev.com/ghpvc/?username=hirandas2610&style=flat-square&color=blue" alt="Profile Views" />
-  </a>
+  <a href="https://strictbytes.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-Strictbytes-2962ff?style=flat&logo=hashnode&logoColor=white" alt="StrictBytes Blog" /></a>
+  <a href="https://x.com/hirandas2610" target="_blank"><img src="https://img.shields.io/badge/X-@hirandas2610-000000?style=flat&logo=twitter&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://linkedin.com/in/hirandas2610" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-hirandas2610-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/hirandas2610"><img src="https://img.shields.io/badge/Email-hirandas@protonmail.com-red?style=flat&logo=gmail&logoColor=white" alt="mailto:hirandas@protonmail.com" /></a>
+  <a href="https://github.com/hirandas2610"><img src="https://komarev.com/ghpvc/?username=hirandas2610&style=flat-square&color=blue" alt="Profile Views" /></a>
 </div>
 
 ---
@@ -77,7 +67,7 @@ Agentic AI👾, Web3🌐, Crypto ₿, Stock Market📈 and transitioning to an A
 
 ## 🔧 Currently Working on a Special Project
 <p align="left">
-  <img src="strictbytes_logo_01.png" width="200" height="200" alt="Strictbytes logo" /> <b>it's loading⏳ ....</b>
+  <a href="https://strictbytes.hashnode.dev/welcome-to-strictbytes-a-developers-hub-for-the-ai-age" target="_blank"><img src="strictbytes_logo_01.png" width="200" height="200" alt="Strictbytes logo" /></a><b>it's loading⏳ ....</b>
 </p>
 
   
