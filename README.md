@@ -75,7 +75,12 @@ Agentic AI👾, Web3🌐, Crypto ₿, Stock Market📈 and transitioning to an A
 
 ---
 
-## 🔧 Currently Working on a Special Project... it's loading ⏳
+## 🔧 Currently Working on a Special Project
+<p align="left">
+  <img src="strictbytes_logo_01.png" width="200" height="200" alt="Strictbytes logo" /> <b>it's loading⏳ ....</b>
+</p>
+
+  
 
 ---
 
