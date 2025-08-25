@@ -60,7 +60,7 @@ Agentic AI👾, Web3🌐, Crypto ₿, Stock Market📈 and transitioning to an A
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hirandas2610&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirandas2610&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirandas2610"/>
 </p>
 
 ---
