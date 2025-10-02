@@ -60,8 +60,8 @@ Agentic AI👾, Web3🌐, Crypto ₿, Stock Market📈 and transitioning to an A
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hirandas2610&theme=react&show_icons=true&hide_border=true&count_private=true" alt="hirandas2610's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=hirandas2610&theme=react&hide_border=true" alt="hirandas2610's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirandas2610&theme=react&show_icons=true&hide_border=true&layout=compact" alt="hirandas2610's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=hirandas2610&theme=react&hide_border=true&count_private=true" alt="hirandas2610's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirandas2610&theme=react&show_icons=true&hide_border=true&layout=compact&count_private=true" alt="hirandas2610's GitHub Stats" />
 </p>
 
 
